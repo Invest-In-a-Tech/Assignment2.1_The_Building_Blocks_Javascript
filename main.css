@@ -2,14 +2,17 @@ body{
     background-color: #202022;
 }
 
+/* stlye for the footer */
 footer{
     text-align: center;
     margin-right: 200px;
 }
+/* style for the header 1 */
 h1{
     text-align: center;
     color: white;
 }
+/* style for the header 2 */
 h2{
     text-align: center;
     color: white;
@@ -18,6 +21,8 @@ h2{
     margin-right: 200px;
     text-align: center;
 }
+
+/* style for the button */
 button{
     background-color: #202022;
     color: white;
